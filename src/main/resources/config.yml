@@ -1,0 +1,20 @@
+default-hat-id: 1000
+default-item: "MUSIC_DISC_11"
+error-sentence: "You must be holding the correct hat to use this command"
+hats:
+  brodie:
+    id: 1001
+    name: "Brodie Hat"
+    rename-color: "YELLOW"
+    permission: "changehat.brodie"
+  stahlhelm:
+    id: 1002
+    name: "Stahlhelm Hat"
+    rename-color: "RED"
+    permission: "changehat.stahlhelm"
+  test:
+    id: 1003
+    name: "Test Hat"
+    rename-color: "BLUE"
+    permission: "changehat.test"
+  # Add more hats here

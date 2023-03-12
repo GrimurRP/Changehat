@@ -1,0 +1,10 @@
+name: changehat
+version: '${project.version}'
+main: b8it.changehat.Changehat
+api-version: 1.18
+author: b8it
+description: A plugin that lets players change their hat using custom_model_data.
+commands:
+  changehat:
+    description: Change your hat.
+    usage: /changehat <hatname>
